@@ -1,0 +1,27 @@
+# ninja log v5
+13	550	7018467400054433	CMakeFiles/tiny_rtos.dir/Core/Src/stm32f4xx_it.c.obj	22f654877c5cccb8
+32	615	7018467400094333	CMakeFiles/tiny_rtos.dir/Core/Src/stm32f4xx_hal_msp.c.obj	ff8f4abff15fba5c
+1	716	7018467401627475	CMakeFiles/tiny_rtos.dir/Core/Src/gpio.c.obj	fb917ea35654e0e4
+1667	2609	7018467419936990	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	86233a7e7ed013a3
+934	1667	7018467410656333	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	c17f361d4b1986af
+2	298	7018467880685044	CMakeFiles/tiny_rtos.dir/Core/Src/main.c.obj	23988002b2f4621d
+37	581	7018467400004574	CMakeFiles/tiny_rtos.dir/Core/Src/system_stm32f4xx.c.obj	752dedac8cc6794f
+552	899	7018467403344248	CMakeFiles/tiny_rtos.dir/Core/Src/sysmem.c.obj	7c875f96fb7f76e3
+582	933	7018467403613524	CMakeFiles/tiny_rtos.dir/Core/Startup/startup_stm32f401retx.s.obj	46bd44a56a602884
+1089	1853	7018467412655650	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	62b9caef639c77ad
+19	1088	7018467404992068	CMakeFiles/tiny_rtos.dir/Core/Src/syscalls.c.obj	3885731c01189859
+560	1153	7018467405656978	CMakeFiles/tiny_rtos.dir/Core/Src/usart.c.obj	a90830f84695fa4
+717	1384	7018467408156445	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	ee278d0132124c8
+616	1395	7018467407656569	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	1994bee9251e079f
+899	1598	7018467410156204	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	bb3f567410e5a73c
+1154	1952	7018467413666476	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	20740cf6dc994c51
+1384	2051	7018467414839524	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	dcf13d1f3d03cf08
+1395	2196	7018467415901573	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	1a757e20de08915a
+1598	2328	7018467417654606	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	1f7189ddb3955931
+1854	2598	7018467419917063	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	d2393a482da1ebb4
+1953	2797	7018467422074697	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	99cde29d81a87df1
+2052	2798	7018467422374144	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	467dd546d6b219c5
+2328	2903	7018467423583319	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	67076e3428744f64
+2196	2907	7018467423653700	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	17148510476d4de3
+2598	3203	7018467426869663	CMakeFiles/tiny_rtos.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	c83dd63b6ba89ecf
+298	766	7018467883791761	tiny_rtos.elf	2ed4aecdbb467b64
